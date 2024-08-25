@@ -1,0 +1,16 @@
+const CONFIG = {
+  introTitle: "Cậu à!",
+  introDesc: `Tớ muốn nói là tớ xin lũi cậu rất nhiều T.T`,
+  btnIntro: "honggg",
+  title: "Cậu tha lỗi cho tớ nháa 😝",
+  desc: "Không trả lời hay thoát ra là tha lỗi rồi nhóo >< ",
+  btnYes: "Ok",
+  btnNo: "Không",
+  question: "Tớ không bao giờ có lỗi, chỉ có cậu bị overthinking",
+  btnReply: "Gửi",
+  reply: "Tớ xin lũi vì đã overthinking",
+  mess: "Tớ biết mà *-*",
+  messDesc: "Tối nay mình phá nát rank liqi nhée",
+  btnAccept: "Okiiiii lun ",
+  messLink: "#!",
+};
